@@ -1,24 +1,70 @@
-<h1 align="center">Hello 👋, I'm Sunil Prajapat</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Sunil Prajapat</h1>
+<h3 align="center">Computer Science Engineer | Backend Development </h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilprajapat1408&label=Profile%20views&color=0e75b6&style=flat" alt="sunilprajapat1408" /> </p>
+### 👨‍💻 About Me
+- Computer Science Engineering undergraduate with hands-on experience in **backend development** and **machine learning projects**
+- Strong foundation in **Java, Python, SQL, and Data Structures**
+- Experience building **end-to-end systems**: database design → application logic → ML model training & evaluation
+- Currently seeking an **entry-level Software Engineer / Machine Learning Engineer** role
 
-- 📫 How to reach me **sunilprajapat2907@gmail.com**
+📫 **Email:** sunilprajapat2907@gmail.com  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sunil-prajapat-878663282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil-prajapat-878663282" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sunilprajapat11871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunilprajapat11871" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sunilprajapat1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunilprajapat1408" height="30" width="40" /></a>
+---
+
+### 🔗 Profiles
+- **GitHub:** https://github.com/sunilprajapat1408  
+- **LinkedIn:** https://linkedin.com/in/sunil-prajapat-878663282  
+- **LeetCode:** https://www.leetcode.com/sunilprajapat11871  
+- **GeeksforGeeks:** https://auth.geeksforgeeks.org/user/sunilprajapat1408  
+
+---
+
+### 🧠 Technical Skills
+
+**Programming Languages**
+- Java, Python, SQL, C++
+
+**Core Computer Science**
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOPS)
+
+**Machine Learning / Computer Vision**
+- TensorFlow, Keras  
+- OpenCV  
+- NumPy, Pandas  
+- CNN-based image classification
+
+**Backend & Databases**
+- JDBC  
+- MySQL  
+- MVC Architecture  
+- CRUD Operations
+
+**Tools & Platforms**
+- Git, GitHub  
+- Linux  
+- AWS (EC2, S3)
+
+---
+
+### 🚀 Highlight Projects
+
+#### Road Traffic Sign Recognition System
+- Built a CNN-based traffic sign classification system using the **GTSRB dataset (43 classes)**
+- Applied image preprocessing, normalization, and data augmentation
+- Achieved ~97% validation accuracy
+- Designed a training and inference pipeline using TensorFlow and OpenCV
+
+#### Bank Management System
+- Developed a Java-based console banking application using **JDBC and MySQL**
+- Implemented core banking operations such as account creation, deposit, withdrawal, and balance inquiry
+- Designed a normalized database schema with constraints for data integrity
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilprajapat1408&show_icons=true&hide_border=true" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilprajapat1408&show_icons=true&locale=en&layout=compact" alt="sunilprajapat1408" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilprajapat1408&show_icons=true&locale=en" alt="sunilprajapat1408" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilprajapat1408&" alt="sunilprajapat1408" /></p>
